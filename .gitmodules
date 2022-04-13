@@ -1,0 +1,3 @@
+[submodule "neog-QoD"]
+	path = neog-QoD
+	url = https://github.com/pnchinmay/neog-QoD.git
